@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬Men 2007-yil Jizzax viloyati Sharof Rashidov tumani Ravot qishlog'ida tug'ildim. **HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN**
+- 💬Men 2007-yil Jizzax viloyati Sharof Rashidov tumani Ravot qishlog'ida tug'ildim. **HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
