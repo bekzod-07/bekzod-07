@@ -1,4 +1,4 @@
-<h3 align="center">Hozirda men HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN dasturlash tillani o'rganayabman</h3>
+<h3 align="center">Hozirda men HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN dasturlash tillani o'rganayabman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzod-07&label=Profile%20views&color=0e75b6&style=flat" alt="bekzod-07" /> </p>
 
