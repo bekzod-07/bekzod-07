@@ -1,4 +1,4 @@
-<h3 align="center">Hozirda men HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN dasturlash tillani o'rganayabman</h3>
+<h3 align="center">Hozirda men HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN, PYTHON, DJANGO, FAST API, DJANGO DJANGO REST FRAMEWORK dasturlash tillani o'rganayabman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzod-07&label=Profile%20views&color=0e75b6&style=flat" alt="bekzod-07" /> </p>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬Men 2007-yil Jizzax viloyati Sharof Rashidov tumani Ravot qishlog'ida tug'ildim. **HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN**
+- 💬Men 2007-yil Jizzax viloyati Sharof Rashidov tumani Ravot qishlog'ida tug'ildim. **HTML, CSS, SASS/SCSS, TAILWIND,  BOOTSTRAP, JAVASCRIPT, REACTJS, NEXTJS, KOTLIN, PYTHON, DJANGO, FAST API, DJANGO DJANGO REST FRAMEWORK**
 
 <h3 align="left">Men bilan bog'lanish</h3>
 <p align="left">
